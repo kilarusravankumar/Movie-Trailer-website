@@ -1,0 +1,38 @@
+{
+  "avatar": {
+    "name": "Avatar",
+    "storyline": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=EgHI4YBXhxM"
+    },
+"pacific_rim": {
+   "name": "Pacfic Rim",
+    "storyline": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f3/Pacific_Rim_FilmPoster.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=5guMumPFBag"
+    },
+"kong_skull_island": {
+   "name": "Kong Skull Island",
+    "storyline": "A team of scientists explore an uncharted island in the Pacific, venturing into the domain of the mighty Kong, and must fight to escape a primal Eden.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/34/Kong_Skull_Island_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=AP0-9FBs2Rs"
+    },
+"battleships": {
+   "name": "Battleship",
+    "storyline": "A fleet of ships is forced to do battle with an armada of unknown origins in order to discover and thwart their destructive goals.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Battleship_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=JpoabtbEJOI"
+    },
+"justice_league": {
+   "name": "Justice league",
+    "storyline": "DC super Heros saving World",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/31/Justice_League_film_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=fIHH5-HVS9o"
+    },
+"i_am_legend":{
+    "name":"I Am Legend",
+    "storyline":"Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+    "poster":"https://upload.wikimedia.org/wikipedia/en/d/df/I_am_legend_teaser.jpg",
+    "trailer":"https://www.youtube.com/watch?v=sFNPNT_4Qww"
+}
+}
